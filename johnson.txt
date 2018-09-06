@@ -1,0 +1,3 @@
+Aleck Johnson
+
+I didn't know you could user mkdir to make multiple directories and had never seen the "touch" command before.
