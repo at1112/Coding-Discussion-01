@@ -17,15 +17,16 @@ For this discussion, please do the following:
 
 ## Response
 
-Respond to someones post by Sunday. The response need not be anything more than your name, e.g. `Eric Dunford`. Place this under the original author's commentary. Again, you'll need to pull the latest version of the repository, update a file locally and then push the changes you need to make. 
+Respond to someones post by Sunday. The response need not be anything more than your name, e.g. "Eric Dunford". Place this under the original author's commentary. Again, you'll need to pull the latest version of the repository, update a file locally and then push the changes you need to make. 
 
+---
 In this, we will have done three things: (1) interacted and mutually collaborated on a mock "project", (2) downloaded a repository, edited it locally, and then pushed it back to the remote, (3) dealt with some basic version conflict errors. 
 
 Commands you'll want to keep in mind:
 
-`git fetch`: Pull the current state of the repository (data only)
-`git pull`: Pull the current state of the repository (automatically merges)
-`git add`: Stage local changes.
-`git commit -m "some message"`: commit local changes.
-`git merge -m "some message"`: merge different branches of a repository (important when there is a conflict)
-`git push`: push your local version to Github.
+- `git fetch`: Pull the current state of the repository (data only)
+- `git pull`: Pull the current state of the repository (automatically merges)
+- `git add`: Stage local changes.
+- `git commit -m "some message"`: commit local changes.
+- `git merge -m "some message"`: merge different branches of a repository (important when there is a conflict)
+- `git push`: push your local version to Github.
