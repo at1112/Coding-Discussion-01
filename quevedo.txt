@@ -1,1 +1,1 @@
-Andrea Quevedo. I learned that, when using the commandline, you can have multiple rocesses running in the background, allowing you to keep working on other projects at the same time
+Andrea Quevedo. I learned that, when using the commandline, you can have multiple processes running in the background, allowing you to keep working on other projects at the same time
