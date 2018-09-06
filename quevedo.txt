@@ -1,1 +1,3 @@
 Andrea Quevedo. I learned that, when using the commandline, you can have multiple processes running in the background, allowing you to keep working on other projects at the same time
+
+Aleck Johnson - multiple processes are cool, although I must admit I find navigating between them confusing.
