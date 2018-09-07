@@ -1,1 +1,3 @@
 This is my attempt at adding a text file to the class repository. Later I learned to read the instructions and discuss something I learned how to do in class yesterday, which was how to create files from the command line.
+
+Andrea Quevedo-- me too! 
