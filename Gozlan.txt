@@ -1,2 +1,4 @@
 okay this is finally working? took a few tries
 Oh right, I learned that Powershell and the command line are not identical.
+
+And bash is a different creature too! I had no idea! - Yining Li
